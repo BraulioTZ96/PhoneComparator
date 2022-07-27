@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Smart Things Comparator</string>
+    <string name="type_item_to_search">Type item to search</string>
+    <string name="search">Search</string>
+    <string name="front_image_smart_device">Front image smart device</string>
+
+    <!-- Spinner Smart Things Options -->
+    <string-array name="smart_things_options">
+        <item>Smartphone</item>
+        <item>Smartwatch</item>
+        <item>Tablet</item>
+        <item>Laptop</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
